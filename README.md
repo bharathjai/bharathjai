@@ -13,8 +13,8 @@
 - 💻 I build web apps, AI-powered tools, and secure systems  
 - 🔭 Currently working on **UChef** — an AI-powered ingredient detection app using custom-trained YOLO26  
 - 🌱 Exploring computer vision, applied ML, and secure backend architecture  
-- 📫 Reach me: **[your.email@example.com]**  
-- 🌐 Portfolio: **[your-portfolio-link.vercel.app]**
+- 📫 Reach me: **[bharathjai2005@gmail.com]**  
+- 🌐 Portfolio: **[https://bharath-jayakumar-portfolio.onrender.com/]**
 
 ---
 
