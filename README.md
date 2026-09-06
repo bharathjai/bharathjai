@@ -44,8 +44,8 @@
 | Project | Description | Tech Stack |
 |---|---|---|
 | **[UChef](https://github.com/YOUR_GITHUB_USERNAME/uchef)** | AI-powered ingredient detection app using a custom-trained YOLO26 computer vision model | `Python` `YOLO26` `FastAPI` `Computer Vision` |
-| **[Terminal Portfolio](https://terminal-portfolio-opal.vercel.app/)** | Personal portfolio website with a terminal/hacker theme | `React` `Tailwind` `JavaScript` |
-| **[Tamil Nadu Tourism Booking](#)** | Full-stack travel booking platform with real-time availability & admin panel | `React` `Supabase` `PostgreSQL` |
+| **[Terminal Portfolio](https://bharath-jayakumar-portfolio.onrender.com/)** | Personal portfolio website with a terminal/hacker theme | `React` `Tailwind` `JavaScript` |
+| **[Tamil Nadu Tourism Booking](https://visittamilnadu.vercel.app/)** | Full-stack travel booking platform with real-time availability & admin panel | `React` `Supabase` `PostgreSQL` |
 | **[Spyware Detection AI](#)** | Machine learning based spyware/malware detection system | `Python` `Flask` `Machine Learning` |
 
 ---
